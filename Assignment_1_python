@@ -1,0 +1,20 @@
+#1st Question #
+a = int(input("Enter the first number : "))
+b = int(input("Enter the second number : "))
+sum = a+b
+Difference = a-b
+Multiplication = a*b
+Division = a/b
+print(" Sum of the two numbers : ",sum)
+print(" Difference of the two numbers : ",Difference)
+print(" Multiplication of the two numbers : ",Multiplication)
+print(" Division of the two numbers : ",Division)
+
+
+
+
+
+#2nd Question#
+First_name = input("Enter your first name : ")
+Second_name  = input("Enter your second name : ")
+print (f" Hi {First_name} {Second_name} , hope you are doing good.")
